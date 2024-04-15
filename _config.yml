@@ -32,7 +32,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-highlighter: rouge
+highlighter: prism
 markdown: kramdown
 kramdown:
   math_engine: katex
