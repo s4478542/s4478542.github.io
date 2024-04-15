@@ -4,7 +4,7 @@ Welcome to my ELEC4630 assignment blog! Here, you'll find updates, reflections, 
 
 ## Table of Contents
 
-1. [Week 1: Introduction to Deep Learning](week1.md)
+1. [Week 1: Introduction to Deep Learning](_posts/week1.md)
 2. [Week 2: Image Classification](2024/04/15/week2.md)
 3. [Week 3: Natural Language Processing](2024/04/15/week3.md)
 4. [Week 4: Computer Vision](2024/04/15/week4.md)
