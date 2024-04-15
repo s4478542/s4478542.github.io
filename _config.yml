@@ -7,12 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: It's a Bloggy Blog World
-description: Cristina's blog for ELEC4630 Assignment 2 ❤❤❤
+description: Cristina's blog for ELEC4630 Assignment 2 ❤
 github_username: s4478542
 
 # Email and twitter are optional:
-email: c.rennie@uq.net.au  
-Instagram_username: @cristina.rennie 
+email: c.rennie@uq.net.au
 
 # Set this to true to get LaTeX math equation support
 use_math: True
@@ -33,7 +32,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-highlighter: prism
+highlighter: rouge
 markdown: kramdown
 kramdown:
   math_engine: katex
